@@ -8,8 +8,6 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white/)](https://open.spotify.com/user/12182757722/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/c4etan0wxx)
 
-![caetano's GitHub stats](https://github-readme-stats.vercel.app/api?username=c4etan0w&show_icons=true&theme=synthwave)
-
 ## Desktop Specifications
 ![GPU](https://img.shields.io/badge/NVIDIA-GTX1050ti_4gb-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CPU](https://img.shields.io/badge/Intel-Core_i5_2310-0071C5?style=for-the-badge&logo=intel&logoColor=white)
