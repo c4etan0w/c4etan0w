@@ -17,7 +17,7 @@
 ![Storage2](https://img.shields.io/badge/2TB-HD-1abc9c.svg)
 
 ## Bio 
-### "Buscando especialização, e apredendo a cada dia novas tecnologias. Podendo assim, fazer um futuro melhor pra mim e para todos ao meu redor!"
+"Buscando especialização, e apredendo a cada dia novas tecnologias. Podendo assim, fazer um futuro melhor pra mim e para todos ao meu redor!"
 
 ## Contact Me!
 - Academic E-mail: gabriel.moreira35@fatec.sp.gov.br
